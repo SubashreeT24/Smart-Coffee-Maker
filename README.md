@@ -13,9 +13,9 @@ A smart automated coffee maker built using an 8052 microcontroller with sensor-b
 
 ## ☕ Modes Available
 
-- Strong Coffee
-- Sugar Level Selection
-- Automatic Mode
+- Coffee Strength Selection(quantity of coffee powder)
+- Sweetness level Selection(quantity of sugar)
+- Automatic Mode Selection(predefined quantity of coffee powder and sugar)
 
 ## 🔗 Features
 
@@ -41,14 +41,6 @@ A smart automated coffee maker built using an 8052 microcontroller with sensor-b
 - Integrated heating element
 - Improved ingredient flow mechanism
 - Fully automatic mixing system
-
-## 👥 Contributors
-
-- @Name1
-- @Name2
-- @Name3
-- @Name4
-
 ## 📌 Applications
 
 - Embedded Systems
